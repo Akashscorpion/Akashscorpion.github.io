@@ -9,13 +9,13 @@ function Hotels() {
     const [list, setState] = useState({list: data})
     const sortMenu=(e)=>{
         if (e.target.value === 'rating'){
-            this.setState({
+            setState({
                 list: data.sort(function(a,b){return b.rating - a.rating})
             })
             
         }
         else if (e.target.value === 'review'){
-            this.setState({
+            setState({
                 list: data.sort(function(a,b){return b.reviews - a.reviews})
             })
             
@@ -28,7 +28,7 @@ function Hotels() {
               
                 return (a < b) ? -1 : (a > b) ? 1 : 0;
               }
-            this.setState({
+            setState({
                 list: data.sort(function(a,b){return compareName(a.name, b.name)})
             })
             
