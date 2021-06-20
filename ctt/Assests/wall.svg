@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="broken fence.svg"
+    viewBox="0 0 1103 554.26"
+    version="1.1"
+    inkscape:version="0.48.3.1 r9886"
+    inkscape:label="Pozadí"
+  >
+  <defs
+      id="defs3"
+    >
+    <linearGradient
+        id="linearGradient4162"
+        y2="663.21"
+        gradientUnits="userSpaceOnUse"
+        x2="-213.99"
+        gradientTransform="translate(428.68 -.90509)"
+        y1="663.21"
+        x1="-251.94"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4158"
+          style="stop-color:#784421"
+          offset="0"
+      />
+      <stop
+          id="stop4160"
+          style="stop-color:#784421;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4170"
+        y2="663.6"
+        gradientUnits="userSpaceOnUse"
+        x2="-274.76"
+        gradientTransform="translate(428.68 -.90509)"
+        y1="663.6"
+        x1="-312.71"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4166"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4168"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4178"
+        y2="663.6"
+        gradientUnits="userSpaceOnUse"
+        x2="-332.53"
+        gradientTransform="translate(428.68 -.90509)"
+        y1="663.6"
+        x1="-370.47"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4174"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4176"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4186"
+        y2="664"
+        gradientUnits="userSpaceOnUse"
+        x2="-393.3"
+        gradientTransform="translate(428.68 -.90509)"
+        y1="664"
+        x1="-431.24"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4182"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4184"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4162-6"
+        y2="663.21"
+        gradientUnits="userSpaceOnUse"
+        x2="-213.99"
+        gradientTransform="translate(1016.3 -.90509)"
+        y1="663.21"
+        x1="-251.94"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4158-5"
+          style="stop-color:#784421"
+          offset="0"
+      />
+      <stop
+          id="stop4160-7"
+          style="stop-color:#784421;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4178-2"
+        y2="663.6"
+        gradientUnits="userSpaceOnUse"
+        x2="-332.53"
+        gradientTransform="translate(899.15 -.90509)"
+        y1="663.6"
+        x1="-370.47"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4174-9"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4176-5"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4186-4"
+        y2="664"
+        gradientUnits="userSpaceOnUse"
+        x2="-393.3"
+        gradientTransform="translate(899.15 -.90509)"
+        y1="664"
+        x1="-431.24"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4182-1"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4184-2"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4328"
+        y2="663.6"
+        gradientUnits="userSpaceOnUse"
+        x2="-274.76"
+        gradientTransform="translate(1168.7 -.39356)"
+        y1="663.6"
+        x1="-312.71"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4166-8"
+          style="stop-color:#963c00"
+          offset="0"
+      />
+      <stop
+          id="stop4168-9"
+          style="stop-color:#963c00;stop-opacity:0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <radialGradient
+        id="radialGradient4352"
+        gradientUnits="userSpaceOnUse"
+        cy="486.4"
+        cx="-66.567"
+        gradientTransform="translate(81.905 40.113)"
+        r="6.8529"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(144.18 38.888)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-2"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-7"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-1"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(201.21 40.059)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-7"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-8"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-0"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(262.14 40.45)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-9"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-0"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-8"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(377.38 38.888)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-21"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-4"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-5"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(436.69 39.539)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-8"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-3"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-4"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(497.46 40.644)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-4"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-05"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-03"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(553.81 40.644)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-49"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-9"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-3"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(615.13 40.092)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-6"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-78"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-08"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(849.91 40.644)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-47"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-34"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-46"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(905.15 37.882)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-3"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-2"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-19"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(964.81 35.672)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-493"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-1"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-9"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(1025 39.539)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-0"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-5"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-91"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(1083 38.434)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-90"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-53"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-49"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(1086.3 337.85)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-86"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-02"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-04"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(1020.6 338.95)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-44"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-25"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-034"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(964.81 337.85)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-5"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-54"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-85"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(905.15 338.4)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-82"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-27"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-6"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(850.46 338.4)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-98"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-56"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-16"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(775.33 338.4)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-471"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-32"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-60"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(612.92 338.95)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-60"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-12"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-63"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(554.36 340.06)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-478"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-81"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-858"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(498.01 340.61)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-37"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-85"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-2"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(438.35 337.85)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-81"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-09"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-01"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(379.79 337.3)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-34"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-22"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-7"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(317.37 337.3)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-1"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-03"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-70"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(259.36 337.85)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-28"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-6"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-41"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(200.81 337.85)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-20"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-28"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-13"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(82.588 338.95)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-04"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-88"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient4392-088"
+        gradientUnits="userSpaceOnUse"
+        cx="-66.567"
+        cy="486.4"
+        r="6.8529"
+        gradientTransform="translate(146.67 340.06)"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4348-66"
+          style="stop-color:#917d70"
+          offset="0"
+      />
+      <stop
+          id="stop4350-30"
+          style="stop-color:#6c5d53"
+          offset="1"
+      />
+    </radialGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      fit-margin-left="0"
+      inkscape:zoom="0.32"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="706.78214"
+      inkscape:cy="703.51755"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      showguides="true"
+      bordercolor="#666666"
+      inkscape:window-x="1272"
+      inkscape:guide-bbox="true"
+      inkscape:window-y="-8"
+      fit-margin-bottom="0"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:document-units="px"
+      inkscape:window-height="962"
+      fit-margin-top="0"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Vrstva 1"
+      inkscape:groupmode="layer"
+      transform="translate(27.762 -378.41)"
+    >
+    <g
+        id="g3322"
+      >
+      <g
+          id="g3196-0"
+          style="stroke:#502d16;fill:#784421"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          transform="matrix(-1.415 0 0 -1 1204.9 1671.5)"
+          inkscape:export-xdpi="399"
+        >
+        <rect
+            id="rect3282-1-1-9"
+            style="stroke:#502d16;fill:#784421"
+            inkscape:export-ydpi="399.99203"
+            inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot rozbity bez textury.png"
+            height="37.5"
+            width="778.12"
+            inkscape:export-xdpi="399.99203"
+            y="1125.8"
+            x="92.188"
+        />
+        <path
+            id="path3044-7-48"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m92.379 1131.5c57.056-5.197 125.03 14.439 184.62 2.6731 58.931-2.8961 118.02-2.6734 176.93 0.5858 61.866 22.53 126.2-6.24 189.45-0.9487 71.151-7.1471 155.96 10.782 226.37-3.9165"
+        />
+        <path
+            id="path3044-7-4-8"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m870.07 1153.4c-30.675 0.9236-130.46 0.8451-186.07-1.2271-58.931-2.8961-118.02-2.6734-176.93 0.5858-61.866 22.53-125.81-1.1619-189.06 4.1294-71.151 0.01-155.8 10.123-226.21-4.5752"
+        />
+        <path
+            id="path3095-2"
+            sodipodi:nodetypes="czcsssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m92.808 1145.2c48.429 13.615 89.541 2.3131 147.52 6.6575s135.95-9.6785 201.83 3.0491c107-3.9004 23.915-11.228-6.4852-13.752-46.38-3.851-95.094-7.4705-140.47 0.4052-43.801 7.6026-85.604-1.917-128.88-1.002-32.33 0.6835-49.229-7.6108-74.655-3.2539"
+        />
+        <path
+            id="path3102-4"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m325.29 1143.4c-16.178 0.4213-56.641 6.2583-3.8646 3.6893 10.788 1.2909 21.505-2.793 32.275-0.9509 79.545-1.462-7.1622-2.8714-9.907-3.0965-6.2116-0.079-12.445-0.2717-18.635 0.3853"
+        />
+        <path
+            id="path3119-5"
+            sodipodi:nodetypes="csssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m448.68 1147.2c-1.6985-2.9214-73.536-4.8605-6.8809 1.0067 4.5261 0.3984 8.5205 2.5105 13.144 1.4768 3.1022-0.6936 29.009 1.7803 8.2916-3.3312-5.5146-1.3606-9.7533 0.9804-14.617 0.7933"
+        />
+        <path
+            id="path3130-5"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m171.29 1125.8c19.985 4.195 40.337 8.2184 60.676 3.8962 20.263 1.3714 40.208-3.1164 60.336-1.5384l3.0948-0.4961 12.417-1.8617"
+        />
+        <path
+            id="path3138-1"
+            sodipodi:nodetypes="cssscc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m91.995 1141.6s33.842 4.1282 46.092 5.2667c16.854 1.5664 35.274-0.8569 52.376 0.3871 39.392 2.8655 6.2929-3.7574-7.8618-2.912-19.984 1.1935-40.122-0.9811-60.021-2.9225-6.9598-1.2562-30.585 0.1807-30.585 0.1807z"
+        />
+        <path
+            id="path3147-7"
+            sodipodi:nodetypes="csssssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m869.8 1135.8c-49.057 13.113-117.28-1.7206-158.21 1.2799-43.11 3.1604-119.69-1.5329-161.18 8.4261-11.771 2.8254 64.922-0.395 76.572-0.6521 13.61-0.3004 26.98 2.737 40.605 2.4514 35.984-0.7544 72.923 6.5104 109.16 1.9669 30.988-3.8856 68.064 0.9808 92.897-3.5008"
+        />
+        <path
+            id="path3156-1"
+            sodipodi:nodetypes="csc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m434.76 1126.4c36.307 3.6898 71.622 16.481 108.65 7.889 33.535-7.7822 71.676-2.3074 106.91-7.5261"
+        />
+        <path
+            id="path3165-1"
+            sodipodi:nodetypes="ccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m473.62 1125.7c20.356 8.8413 46.124 5.1594 67.25 3.2709 3.3095-0.63 6.6047-1.3317 9.9-2.0315"
+        />
+        <path
+            id="path3178-5"
+            sodipodi:nodetypes="ssscs"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m708.63 1144.9c12.262 1.0046 24.195 0.1594 36.573 0.3016 14.437 0.1658 63.173 0.03 8.7843-3.9865-11.529-0.8515-18.66 2.6224-29.863 1.9986-5.0202 0.4478-84.225-3.9447-15.494 1.6863z"
+        />
+        <path
+            id="path3189-2"
+            sodipodi:nodetypes="cccsc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m503.12 1163.3c17.487-3.5604 34.461-4.3381 52.2-6.2931 19.064 0.3899 38.372 2.9755 57.504 1.8638 21.101 1.3112 42.673-5.4354 64.013-0.438 5.4666 1.2802 185.43 4.8286 193.08 1.3517"
+        />
+      </g
+      >
+      <g
+          id="g3196"
+          style="stroke:#502d16;fill:#784421"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          transform="matrix(1.415 0 0 1 -157.37 -318.71)"
+          inkscape:export-xdpi="399"
+        >
+        <rect
+            id="rect3282-1-1"
+            style="stroke:#502d16;fill:#784421"
+            inkscape:export-ydpi="399.99203"
+            inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot rozbity bez textury.png"
+            height="37.5"
+            width="778.12"
+            inkscape:export-xdpi="399.99203"
+            y="1125.8"
+            x="92.188"
+        />
+        <path
+            id="path3044-7"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m92.379 1131.5c57.056-5.197 125.03 14.439 184.62 2.6731 58.931-2.8961 118.02-2.6734 176.93 0.5858 61.866 22.53 126.2-6.24 189.45-0.9487 71.151-7.1471 155.96 10.782 226.37-3.9165"
+        />
+        <path
+            id="path3044-7-4"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m870.07 1153.4c-30.675 0.9236-130.46 0.8451-186.07-1.2271-58.931-2.8961-118.02-2.6734-176.93 0.5858-61.866 22.53-125.81-1.1619-189.06 4.1294-71.151 0.01-155.8 10.123-226.21-4.5752"
+        />
+        <path
+            id="path3095"
+            sodipodi:nodetypes="czcsssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m92.808 1145.2c48.429 13.615 89.541 2.3131 147.52 6.6575s135.95-9.6785 201.83 3.0491c107-3.9004 23.915-11.228-6.4852-13.752-46.38-3.851-95.094-7.4705-140.47 0.4052-43.801 7.6026-85.604-1.917-128.88-1.002-32.33 0.6835-49.229-7.6108-74.655-3.2539"
+        />
+        <path
+            id="path3102"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m325.29 1143.4c-16.178 0.4213-56.641 6.2583-3.8646 3.6893 10.788 1.2909 21.505-2.793 32.275-0.9509 79.545-1.462-7.1622-2.8714-9.907-3.0965-6.2116-0.079-12.445-0.2717-18.635 0.3853"
+        />
+        <path
+            id="path3119"
+            sodipodi:nodetypes="csssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m448.68 1147.2c-1.6985-2.9214-73.536-4.8605-6.8809 1.0067 4.5261 0.3984 8.5205 2.5105 13.144 1.4768 3.1022-0.6936 29.009 1.7803 8.2916-3.3312-5.5146-1.3606-9.7533 0.9804-14.617 0.7933"
+        />
+        <path
+            id="path3130"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m171.29 1125.8c19.985 4.195 40.337 8.2184 60.676 3.8962 20.263 1.3714 40.208-3.1164 60.336-1.5384l3.0948-0.4961 12.417-1.8617"
+        />
+        <path
+            id="path3138"
+            sodipodi:nodetypes="cssscc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m91.995 1141.6s33.842 4.1282 46.092 5.2667c16.854 1.5664 35.274-0.8569 52.376 0.3871 39.392 2.8655 6.2929-3.7574-7.8618-2.912-19.984 1.1935-40.122-0.9811-60.021-2.9225-6.9598-1.2562-30.585 0.1807-30.585 0.1807z"
+        />
+        <path
+            id="path3147"
+            sodipodi:nodetypes="csssssc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m869.8 1135.8c-49.057 13.113-117.28-1.7206-158.21 1.2799-43.11 3.1604-119.69-1.5329-161.18 8.4261-11.771 2.8254 64.922-0.395 76.572-0.6521 13.61-0.3004 26.98 2.737 40.605 2.4514 35.984-0.7544 72.923 6.5104 109.16 1.9669 30.988-3.8856 68.064 0.9808 92.897-3.5008"
+        />
+        <path
+            id="path3156"
+            sodipodi:nodetypes="csc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m434.76 1126.4c36.307 3.6898 71.622 16.481 108.65 7.889 33.535-7.7822 71.676-2.3074 106.91-7.5261"
+        />
+        <path
+            id="path3165"
+            sodipodi:nodetypes="ccc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m473.62 1125.7c20.356 8.8413 46.124 5.1594 67.25 3.2709 3.3095-0.63 6.6047-1.3317 9.9-2.0315"
+        />
+        <path
+            id="path3178"
+            sodipodi:nodetypes="ssscs"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m708.63 1144.9c12.262 1.0046 24.195 0.1594 36.573 0.3016 14.437 0.1658 63.173 0.03 8.7843-3.9865-11.529-0.8515-18.66 2.6224-29.863 1.9986-5.0202 0.4478-84.225-3.9447-15.494 1.6863z"
+        />
+        <path
+            id="path3189"
+            sodipodi:nodetypes="cccsc"
+            style="stroke:#502d16;stroke-width:1px;fill:#784421"
+            inkscape:connector-curvature="0"
+            d="m503.12 1163.3c17.487-3.5604 34.461-4.3381 52.2-6.2931 19.064 0.3899 38.372 2.9755 57.504 1.8638 21.101 1.3112 42.673-5.4354 64.013-0.438 5.4666 1.2802 185.43 4.8286 193.08 1.3517"
+        />
+      </g
+      >
+      <g
+          id="g4330"
+          inkscape:export-ydpi="399"
+          inkscape:export-xdpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          transform="matrix(.99877 .049493 -.049493 .99877 -112.3 -20.278)"
+        >
+        <path
+            id="path3386"
+            style="stroke:#000000;fill:#803300"
+            d="m404.18 381.21-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+            inkscape:export-ydpi="399.99203"
+            inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot rozbity bez textury.png"
+            inkscape:connector-curvature="0"
+            inkscape:export-xdpi="399.99203"
+        />
+        <path
+            id="path3189-1"
+            sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+            style="stroke:#552200;stroke-width:1px;fill:#963c00"
+            inkscape:connector-curvature="0"
+            d="m421.98 523.19c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-32 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.31-535.7c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.922-0.19552c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+        />
+        <path
+            id="path3070"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#552200;stroke-width:1px;fill:none"
+            inkscape:connector-curvature="0"
+            d="m411.63 506.85c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+        />
+      </g
+      >
+      <path
+          id="path3386-7"
+          style="stroke:#a25b2d;fill:#803300"
+          d="m311.14 380.3 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4"
+          style="stroke:#a25b2d;stroke-width:1px;fill:#963c00"
+          d="m293.34 522.29c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.838 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.32-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0"
+          style="stroke:#a25b2d;stroke-width:1px;fill:none"
+          d="m303.69 505.94c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-4"
+          style="stroke:#593218;fill:#803300"
+          d="m370.24 380.3-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-8"
+          style="stroke:#593218;stroke-width:1px;fill:#963c00"
+          d="m388.04 522.29c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.84 518.97s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.322-535.71c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.922-0.19552c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-8"
+          style="stroke:#593218;stroke-width:1px;fill:none"
+          d="m377.69 505.94c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-4"
+          style="stroke:#552200;fill:#803300"
+          d="m429.67 379.91 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-5"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m411.87 521.9c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.838 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.3-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-5"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m422.22 505.55c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-1"
+          style="stroke:#000000;fill:#803300"
+          d="m17.084 380.3-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-1"
+          style="stroke:#552200;stroke-width:1px;fill:url(#linearGradient4186)"
+          d="m34.885 522.29c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-31.997 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.31 16.481-71.62 7.889-108.65-7.7822-33.53-1.1355-34.18-6.3542-69.4m13.839 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.49646-3.1-1.8617-12.41m21.415-140.87c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.323-535.71c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.921-0.18c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-5"
+          style="stroke:#552200;stroke-width:1px;fill:none"
+          d="m24.534 505.94c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-7"
+          style="stroke:#a25b2d;fill:#803300"
+          d="m76.513 379.91 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-6"
+          style="stroke:#a25b2d;stroke-width:1px;fill:url(#linearGradient4178)"
+          d="m58.712 521.9c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.839 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.323-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-1"
+          style="stroke:#a25b2d;stroke-width:1px;fill:none"
+          d="m69.064 505.55c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-4-4"
+          style="stroke:#593218;fill:#803300"
+          d="m135.62 379.91-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-8-2"
+          style="stroke:#593218;stroke-width:1px;fill:url(#linearGradient4170)"
+          d="m153.42 521.9c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.322-535.71c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.922-0.19552c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-8-3"
+          style="stroke:#593218;stroke-width:1px;fill:none"
+          d="m143.07 505.55c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-4-2"
+          style="stroke:#552200;fill:#803300"
+          d="m195.05 379.51 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-5-2"
+          style="stroke:#a05a2c;stroke-width:1px;fill:url(#linearGradient4162)"
+          d="m177.25 521.5c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.84 518.97s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.31-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-5-1"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m187.6 505.15c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-3"
+          style="stroke:#000000;fill:#803300"
+          d="m839.29 380.69-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-3"
+          style="stroke:#552200;stroke-width:1px;fill:#963c00"
+          d="m857.09 522.68c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8037-42.278 0.692-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.322-535.71c-1.6416 50.018 9.5307 51.785 4.6819 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.922-0.19552c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-4"
+          style="stroke:#552200;stroke-width:1px;fill:none"
+          d="m846.74 506.33c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-1"
+          style="stroke:#a25b2d;fill:#803300"
+          d="m898.72 380.3 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-1"
+          style="stroke:#a25b2d;stroke-width:1px;fill:#963c00"
+          d="m880.92 522.29c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.6919-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.838 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.376 28.729-0.376 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.41-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.31-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5143 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.1675-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-3"
+          style="stroke:#a25b2d;stroke-width:1px;fill:none"
+          d="m891.27 505.94c6.6128-22.646-0.072-46.282 4.7742-69.19-3.5072-56.557 6.0938-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3487 49.032-0.121 27.311-13.084 54.489-6.3363 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-4-8"
+          style="stroke:#593218;fill:#803300"
+          d="m957.83 380.3-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-8-7"
+          style="stroke:#593218;stroke-width:1px;fill:#963c00"
+          d="m975.63 522.29c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.6919-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.376 28.729 0.376 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7804-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4115-146.25 4.3444-57.979-9.6786-135.95 3.0491-201.83-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.322-535.71c-1.6417 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5143 304.9m-22.922-0.19552c-5.197-57.056 14.536-123.46 2.7707-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4587-109.01-0.1674-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-8-4"
+          style="stroke:#593218;stroke-width:1px;fill:none"
+          d="m965.28 505.94c-6.6129-22.646 0.072-46.282-4.7743-69.19 3.5072-56.557-6.0938-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.1209 27.311 13.084 54.489 6.3363 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-4-27"
+          style="stroke:#552200;fill:#803300"
+          d="m1017.3 379.91 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-5-7"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m999.46 521.9c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.6919-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.838 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.376 28.729-0.376 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.322-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5143 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4587-109.01 0.1674-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-5-9"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m1009.8 505.55c6.6128-22.646-0.072-46.282 4.7742-69.19-3.5072-56.557 6.0938-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.1209 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-1-3"
+          style="stroke:#000000;fill:#803300"
+          d="m487.55 380.3-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-1-1"
+          style="stroke:#552200;stroke-width:1px;fill:url(#linearGradient4186-4)"
+          d="m505.36 522.29c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.322-535.71c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.922-0.19552c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-5-9"
+          style="stroke:#552200;stroke-width:1px;fill:none"
+          d="m495 505.94c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3386-7-7-8"
+          style="stroke:#a25b2d;fill:#803300"
+          d="m546.98 379.91 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-6-6"
+          style="stroke:#a25b2d;stroke-width:1px;fill:url(#linearGradient4178-2)"
+          d="m529.18 521.9c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.838 518.96s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.31-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-1-5"
+          style="stroke:#a25b2d;stroke-width:1px;fill:none"
+          d="m539.53 505.55c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <g
+          id="g4323"
+          inkscape:export-ydpi="399"
+          inkscape:export-xdpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          transform="matrix(.94737 -.32015 .32015 .94737 -384.94 324.11)"
+        >
+        <path
+            id="path3386-4-4-0"
+            style="stroke:#593218;fill:#803300"
+            d="m875.67 380.42-18.875 36.469v514.38h37.156v-514.38l-18.281-36.469z"
+            inkscape:export-ydpi="399.99203"
+            inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot rozbity bez textury.png"
+            inkscape:connector-curvature="0"
+            inkscape:export-xdpi="399.99203"
+        />
+        <path
+            id="path3189-1-8-2-2"
+            sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+            style="stroke:#593218;stroke-width:1px;fill:url(#linearGradient4328)"
+            inkscape:connector-curvature="0"
+            d="m893.47 522.41c-3.5604-17.487-2.9709-35.047-4.9259-52.786 0.3899-19.064 1.8036-42.278 0.69192-61.41m-31.998 143.12c8.8413-20.356 5.1594-46.124 3.2709-67.25-0.63-3.3095-3.2848-15.589-3.9846-18.884m1.4002 124.99c3.6898-36.307 16.481-71.622 7.889-108.65-7.7822-33.535-1.1355-34.176-6.3542-69.406m13.838 518.96s3.9329-31.987 5.0714-44.236c1.5664-16.854-0.8569-35.274 0.3871-52.376 2.8655-39.392-3.7574-6.2929-2.912 7.8618 1.1935 19.984-0.9811 40.122-2.9225 60.021-1.2562 6.9598 0.37601 28.729 0.37601 28.729zm-15.961-77.438c4.195-19.985 8.2184-40.337 3.8962-60.676 1.3714-20.263-3.1164-40.208-1.5384-60.336l-0.4961-3.0948-1.8617-12.417m21.415-140.86c-2.9214 1.6985-4.8605 73.536 1.0067 6.8809 0.3984-4.5261 2.5105-8.5205 1.4768-13.144-0.6936-3.1022 1.7803-29.009-3.3312-8.2916-1.3606 5.5146 0.9804 9.7533 0.7933 14.617m-3.7828 123.32c0.4213 16.178 6.2583 56.641 3.6893 3.8646 1.2909-10.788-2.793-21.505-0.9509-32.275-1.462-79.545-2.8714 7.1622-3.0965 9.907-0.079 6.2116-0.2717 12.445 0.3853 18.635m4.0111 231.08c13.615-48.429 0.067-88.271 4.4114-146.25s-9.6785-135.95 3.0491-201.83c-3.9004-107-11.228-23.915-13.752 6.4852-3.851 46.38-7.4705 95.094 0.4052 140.47 7.6026 43.801-1.917 85.604-1.002 128.88 0.6835 32.33-8.0014 46.885-3.6445 72.311m14.31-535.71c-1.6416 50.018 9.5307 51.785 4.6818 231.07-2.6023 71.674 8.554 235.42-1.5144 304.9m-22.93-0.19c-5.197-57.056 14.537-123.46 2.7708-183.06-2.8961-58.931-2.6734-118.02 0.5858-176.93 22.53-61.866-5.4588-109.01-0.16745-172.27"
+        />
+        <path
+            id="path3070-8-3-8"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#593218;stroke-width:1px;fill:none"
+            inkscape:connector-curvature="0"
+            d="m883.12 506.06c-6.6128-22.646 0.0716-46.282-4.7742-69.19 3.5072-56.557-6.0937-67.836-6.9108 1.2558 3.8657 16.141 8.2286 32.254 5.3488 49.032 0.12092 27.311 13.084 54.489 6.3362 18.902z"
+        />
+      </g
+      >
+      <path
+          id="path3386-7-4-2-6"
+          style="stroke:#552200;fill:#803300"
+          d="m782.63 379.51 18.875 36.469v514.38h-37.156v-514.38l18.281-36.469z"
+          inkscape:export-ydpi="399.99203"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399.99203"
+      />
+      <path
+          id="path3189-1-4-5-2-0"
+          style="stroke:#a05a2c;stroke-width:1px;fill:url(#linearGradient4162-6)"
+          d="m764.83 521.5c3.5604-17.487 2.9709-35.047 4.9259-52.786-0.3899-19.064-1.8036-42.278-0.69192-61.41m31.998 143.12c-8.8413-20.356-5.1594-46.124-3.2709-67.25 0.63-3.3095 3.2848-15.589 3.9846-18.884m-1.4002 124.99c-3.6898-36.307-16.481-71.622-7.889-108.65 7.7822-33.535 1.1355-34.176 6.3542-69.406m-13.84 518.97s-3.9329-31.987-5.0714-44.236c-1.5664-16.854 0.8569-35.274-0.3871-52.376-2.8655-39.392 3.7574-6.2929 2.912 7.8618-1.1935 19.984 0.9811 40.122 2.9225 60.021 1.2562 6.9598-0.37601 28.729-0.37601 28.729zm15.961-77.438c-4.195-19.985-8.2184-40.337-3.8962-60.676-1.3714-20.263 3.1164-40.208 1.5384-60.336l0.4961-3.0948 1.8617-12.417m-21.415-140.86c2.9214 1.6985 4.8605 73.536-1.0067 6.8809-0.3984-4.5261-2.5105-8.5205-1.4768-13.144 0.6936-3.1022-1.7803-29.009 3.3312-8.2916 1.3606 5.5146-0.9804 9.7533-0.7933 14.617m3.7828 123.32c-0.4213 16.178-6.2583 56.641-3.6893 3.8646-1.2909-10.788 2.793-21.505 0.9509-32.275 1.462-79.545 2.8714 7.1622 3.0965 9.907 0.079 6.2116 0.2717 12.445-0.3853 18.635m-4.0111 231.08c-13.615-48.429-0.067-88.271-4.4114-146.25s9.6785-135.95-3.0491-201.83c3.9004-107 11.228-23.915 13.752 6.4852 3.851 46.38 7.4705 95.094-0.4052 140.47-7.6026 43.801 1.917 85.604 1.002 128.88-0.6835 32.33 8.0014 46.885 3.6445 72.311m-14.3-535.71c1.6416 50.018-9.5307 51.785-4.6818 231.07 2.6023 71.674-8.554 235.42 1.5144 304.9m22.922-0.19552c5.197-57.056-14.537-123.46-2.7708-183.06 2.8961-58.931 2.6734-118.02-0.5858-176.93-22.53-61.866 5.4588-109.01 0.16745-172.27"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="cccccccsccsssccccccccssscccccccscssscccccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path3070-0-5-1-2"
+          style="stroke:#a05a2c;stroke-width:1px;fill:#784421"
+          d="m775.18 505.15c6.6128-22.646-0.0716-46.282 4.7742-69.19-3.5072-56.557 6.0937-67.836 6.9108 1.2558-3.8657 16.141-8.2286 32.254-5.3488 49.032-0.12092 27.311-13.084 54.489-6.3362 18.902z"
+          inkscape:export-ydpi="399"
+          sodipodi:nodetypes="ccccc"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4352)"
+          d="m21.879 526.51c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-6"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392)"
+          d="m84.149 525.29c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-60"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-1)"
+          d="m141.18 526.46c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-0"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-0)"
+          d="m202.12 526.85c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-64"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-8)"
+          d="m317.35 525.29c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-5"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-5)"
+          d="m376.67 525.94c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-7"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-4)"
+          d="m437.43 527.04c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-03"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-03)"
+          d="m493.78 527.04c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-644"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-3)"
+          d="m555.1 526.49c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-8"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-08)"
+          d="m789.88 527.04c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-66"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-46)"
+          d="m845.13 524.28c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-9"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-19)"
+          d="m904.79 522.07c0 3.6124-2.9285 6.5409-6.5409 6.5409-3.6125 0-6.5409-2.9285-6.5409-6.5409s2.9284-6.5409 6.5409-6.5409c3.6124 0 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-4"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-9)"
+          d="m965 525.94c0 3.6124-2.9284 6.5409-6.5408 6.5409-3.6125 0-6.5409-2.9285-6.5409-6.5409s2.9284-6.5409 6.5409-6.5409c3.6124 0 6.5408 2.9285 6.5408 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-2"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-91)"
+          d="m1023 524.84c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-02"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-49)"
+          d="m1026.3 824.25c0 3.6124-2.9285 6.5409-6.5409 6.5409-3.6125 0-6.5409-2.9285-6.5409-6.5409s2.9284-6.5409 6.5409-6.5409c3.6124 0 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-21"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-04)"
+          d="m960.58 825.36c0 3.6124-2.9284 6.5409-6.5409 6.5409-3.6124 0-6.5409-2.9285-6.5409-6.5409s2.9285-6.5409 6.5409-6.5409c3.6125 0 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-1"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-034)"
+          d="m904.79 824.25c0 3.6124-2.9285 6.5409-6.5409 6.5409-3.6125 0-6.5409-2.9285-6.5409-6.5409s2.9284-6.5409 6.5409-6.5409c3.6124 0 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-83"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-85)"
+          d="m845.13 824.8c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-07"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-6)"
+          d="m790.44 824.8c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-3"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-16)"
+          d="m715.3 824.8c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-54"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-60)"
+          d="m552.89 825.36c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-87"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-63)"
+          d="m494.33 826.46c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-73"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-858)"
+          d="m437.99 827.01c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-49"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-2)"
+          d="m378.32 824.25c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-27"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-01)"
+          d="m319.77 823.7c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-39"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-7)"
+          d="m257.34 823.7c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-81"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-70)"
+          d="m199.34 824.25c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-837"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-41)"
+          d="m140.78 824.25c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-67"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-13)"
+          d="m22.561 825.36c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4335-23"
+          style="stroke:#241f1c;stroke-width:.62404;fill:url(#radialGradient4392-088)"
+          d="m86.643 826.46c0 3.6124-2.9285 6.5409-6.5409 6.5409s-6.5409-2.9285-6.5409-6.5409 2.9285-6.5409 6.5409-6.5409 6.5409 2.9285 6.5409 6.5409z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m615.04 532.31c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887-0"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m716.57 527.04c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887-6"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m658.56 528.15c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887-5"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m608.85 827.01c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887-09"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m661.88 826.46c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+      <path
+          id="path4887-7"
+          style="stroke:#241f1c;stroke-width:.79082;fill:#28170b"
+          d="m266.89 524.84c0 1.7435-1.5158 3.1568-3.3856 3.1568s-3.3856-1.4134-3.3856-3.1568c0-1.7435 1.5158-3.1568 3.3856-3.1568s3.3856 1.4134 3.3856 3.1568z"
+          inkscape:export-ydpi="399"
+          inkscape:export-filename="C:\Users\Jana\Desktop\jarek vytvory\plot 3 rozbity.png"
+          inkscape:connector-curvature="0"
+          inkscape:export-xdpi="399"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >broken picket fence</dc:title
+        >
+        <dc:date
+          >2013-01-05T17:09:41</dc:date
+        >
+        <dc:description
+          >picket fence with missing nails</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/174098/broken-fence-by-jarda-174098</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >jarda</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >broken</rdf:li
+            >
+            <rdf:li
+              >fence</rdf:li
+            >
+            <rdf:li
+              >missing nails</rdf:li
+            >
+            <rdf:li
+              >picket</rdf:li
+            >
+            <rdf:li
+              >wooden</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
